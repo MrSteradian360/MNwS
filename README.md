@@ -1,5 +1,4 @@
 # MNwS
 
 Autorzy:
-Mateusz Duma
-Eryk Galas
+Mateusz Duma, Eryk Galas
