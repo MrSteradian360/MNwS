@@ -134,7 +134,7 @@ lines(odsetek4_1,col="blue")
 legend("bottomright",legend=c("m = 5", "m = 14"),col=c("green","blue"), lty=1, cex=0.8)
 
 
-##tRZECI przypadek##
+##Trzeci przypadek##
 
 ############################################
 
